@@ -26,9 +26,9 @@ Este projeto demonstra o fluxo **Producer → RabbitMQ → Consumer**.
 **Exemplo de JSON a ser enviado:**  
 ```json
 {
-  "name": "Shape of You",
-  "artist": "Ed Sheeran",
-  "album": "Divide"
+ "name": "So Far Away",
+  "artist": "Nightmare",
+  "album": "Avenged Sevenfold"
 }
 ```
 
